@@ -1,7 +1,7 @@
 body {
 	color:#000000;
-	background:#3300ff;
-	font-family:Courier;
+	background:#0000ff;
+	font-family:Arial, Times;
 	width:960px;
 	margin:auto;
 }
@@ -51,7 +51,7 @@ display:block;
 	text-align:center;
 	font-size:13px;
 	border: 2px solid white;
-	border-radius:10px;
+	border-radius:5px;
 }
 
 
