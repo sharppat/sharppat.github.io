@@ -44,7 +44,7 @@ text-decoration: none;
 }
 
 
-#nav li:hover {
+#nav li: {
 display:block;
 	float: left;
 	padding:5px;
