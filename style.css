@@ -21,11 +21,11 @@ header, main h1 {color:#ffff00;
 }
 header h1{
 	display:block
-	float: left;
+	float: center;
 	clear:both
 	padding:5px;
 	margin-bottom:0px;
-	margin-right:10px;
+	margin-right:0px;
 	height:40px;
 	width:550px;
 	text-align:center;
