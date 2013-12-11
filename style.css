@@ -47,7 +47,7 @@ list-style: none;
 
 #nav li {
 display:block;
-	color:red;
+	text-color:red;
 	float: left;
 	padding:5px;
 	margin-bottom:20px;
@@ -61,6 +61,8 @@ display:block;
 	background:#F38630
 
 }
+p{
+	float:right;}
 
 
 #menu {
