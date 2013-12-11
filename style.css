@@ -47,7 +47,7 @@ list-style: none;
 
 #nav li {
 display:block;
-	color:red
+	color:red;
 	float: left;
 	padding:5px;
 	margin-bottom:20px;
