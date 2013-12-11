@@ -37,14 +37,14 @@ text-decoration: none;
 
 
 #nav {
-	list-style: none;
+list-style: none;
 	width:960px;
 	margin-left:-40px;
 	
 }
 
 
-#nav li:hover {
+#nav li: {
 display:block;
 	float: left;
 	padding:5px;
@@ -68,14 +68,14 @@ display:block;
 
 
 #menu ul {
-list-style: none;
+	list-style: none;
 	float:left;
 	margin-left:0;
 	border-right: 1px solid #c0c0c0;
 	}
 
 #menu li {
-width: 125px;
+	width: 125px;
 	padding:5px;
 	margin-bottom:10px;
 	font-size:13px;
@@ -83,7 +83,7 @@ width: 125px;
 	
 
 article {
-width:800px;
+	width:800px;
 	display: block;
 	float:right;
 	}
